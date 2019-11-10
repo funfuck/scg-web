@@ -28,4 +28,4 @@ npm run lint
 ![alt text](screenshots/img-findxyz.PNG)
 
 #### CV (About link)
-![alt text](https://github.com/funfuck/scg-web/blob/master/screenshots/img-about.PNG)
+![alt text](screenshots/img-about.PNG)
