@@ -7,10 +7,10 @@
       <div class="collapse navbar-collapse" id="navbarSupportedContent">
         <ul class="navbar-nav mr-auto">
           <li class="nav-item active">
-            <router-link class="nav-link" to="/findxyz">FindXYZ</router-link>
+            <router-link class="nav-link" to="/">PlaceSearch</router-link>
           </li>
           <li class="nav-item active">
-            <router-link class="nav-link" to="/">PlaceSearch</router-link>
+            <router-link class="nav-link" to="/findxyz">FindXYZ</router-link>
           </li>
           <li class="nav-item">
             <router-link class="nav-link" to="/about">About</router-link>

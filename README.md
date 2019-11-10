@@ -20,5 +20,12 @@ npm run build
 npm run lint
 ```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+### Screenshots
+#### Plach search (PlaceSearch link)
+![alt text](screenshots/img-placesearch.png)
+
+#### Find X,Y,Z from sequence (FindXYZ link)
+![alt text](screenshots/img-findxyz.png)
+
+#### CV (About link)
+![alt text](screenshots/img-about.png)
