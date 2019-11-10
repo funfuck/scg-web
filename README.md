@@ -22,13 +22,10 @@ npm run lint
 
 ### Screenshots
 #### Plach search (PlaceSearch link)
-
-![ScreenShot](https://github.com/funfuck/scg-web/screenshots/img-placesearch.png)
+![alt text](screenshots/img-placesearch.png)
 
 #### Find X,Y,Z from sequence (FindXYZ link)
-
-![ScreenShot](https://github.com/funfuck/scg-web/screenshots/img-findxyz.png)
+![alt text](screenshots/img-findxyz.png)
 
 #### CV (About link)
-
-![ScreenShot](https://github.com/funfuck/scg-web/screenshots/img-about.png)
+![alt text](https://github.com/funfuck/scg-web/blob/master/screenshots/img-about.PNG)
