@@ -22,10 +22,13 @@ npm run lint
 
 ### Screenshots
 #### Plach search (PlaceSearch link)
+
 ![ScreenShot](screenshots/img-placesearch.png)
 
 #### Find X,Y,Z from sequence (FindXYZ link)
+
 ![ScreenShot](screenshots/img-findxyz.png)
 
 #### CV (About link)
+
 ![ScreenShot](screenshots/img-about.png)
